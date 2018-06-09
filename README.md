@@ -1,2 +1,4 @@
 # hello-world
-Just another repository 
+Hello madafaka!
+
+I'm Rodrigo Macías an you're watching Disney channel!
